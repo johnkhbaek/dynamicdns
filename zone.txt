@@ -1,0 +1,2 @@
+example.com A 1.2.3.4
+test.com A 2.2.3.4

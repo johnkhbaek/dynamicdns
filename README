@@ -1,0 +1,5 @@
+runs DNS server
+command:
+-add example.com,A,1.2.3.4
+-add example.com,TXT,"blahblahblah blah blah blahblah,blah"
+-rem example.com
