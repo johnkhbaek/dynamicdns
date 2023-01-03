@@ -105,7 +105,7 @@ if __name__ == '__main__':
         tcp_server.start_thread()
 
     while udp_server.isAlive():
-        userinput = raw_input("DNS> ")
+        userinput = input("DNS> ")
         if userinput:
             # tokenize the command
             tokens = userinput.split()
